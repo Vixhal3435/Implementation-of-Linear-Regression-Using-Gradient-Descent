@@ -47,7 +47,9 @@ print(f"predicted value: {pre}")
 ```
 
 ## Output:
-![Screenshot 2024-11-12 215218](https://github.com/user-attachments/assets/bb1988f4-16ab-4c5c-ba04-c1a2d7902677)
+![Screenshot 2024-11-15 225927](https://github.com/user-attachments/assets/c3014d65-0946-4d98-a803-5662f44bad12)
+![Screenshot 2024-11-15 225945](https://github.com/user-attachments/assets/b025adbb-084f-477c-b51c-366bb4e80483)
+
 
 
 
