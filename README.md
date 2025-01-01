@@ -9,18 +9,23 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1.Problem Definition
+
 Define the input variable (X) and output variable (Y).
 
 2.Initialize Parameters
+
 Set initial values for the weights (θ₀, θ₁) and learning rate (α).
 
 3.Define Cost Function
+
 Use the Mean Squared Error (MSE) as the cost function
 
 4.Repeat Until Convergence
+
 Continue updating weights until the cost function converges (stops decreasing significantly).
 
 5.Prediction
+
 Use the final weights (θ₀, θ₁) to make predictions.
 
 ## Program:
